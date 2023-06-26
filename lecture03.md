@@ -3,6 +3,9 @@
 - ブラウザで表示、起動確認
 ![起動確認](./image/lecture03_01.png)
 
+- New Fruitから動作確認をしてみる
+![動作確認](./image/lecture03_07.png)
+
 ## APサーバーについて
 - APサーバーの名前とバージョン
 ![APサーバーの名前とバージョン](./image/lecture03_02.png)
